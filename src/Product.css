@@ -1,0 +1,23 @@
+.product{
+    width: 306px;
+    text-align: left;
+    margin-top: 15px;
+}
+.product> img{
+    width: 306px;
+    height: 306px;
+    border-radius: 50px;
+    margin-bottom: 5px;
+}
+.product>p{
+    margin: 5px;
+}
+.product> button{
+    margin-top: 2px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    border-radius: 25px;
+    padding: 10px;
+    border: none;
+}
